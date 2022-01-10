@@ -1,12 +1,7 @@
 Druga część projektu (PL/SQL) powinna zawierać:
 
 1. jeden plik z rozszerzeniem *.sql, zawierający wszystkie niezbędne instrukcje do wykonania projektu (proszę skorzystać ze znaku / - będącym odpowiednikiem polecenia GO w T-SQL).
-2.
-Procedura
-lub
-Wyzwalacz
-lub
-Funkcja
+2. Procedura lub Wyzwalacz lub Funkcja
 
 Punktacja drugiej części projektu:
 
